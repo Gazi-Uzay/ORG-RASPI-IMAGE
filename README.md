@@ -6,7 +6,7 @@ Bu doküman, Raspberry Pi (Ubuntu Server) üzerine **VS Code Remote-SSH** ile ba
 
 ## 📦 Image Bilgisi
 
-**Repo:** ORG-2026-Raspi-Image  
+**Repo:** ORG-Raspi-Image  
 
 ---
 
